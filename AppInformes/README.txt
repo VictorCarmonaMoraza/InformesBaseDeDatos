@@ -1,0 +1,1 @@
+﻿Creamos la estructura de la aplicación de donde obtendremos datos de una base de datos
